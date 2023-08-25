@@ -1,1 +1,17 @@
 
+.parent{
+    background-color: greenyellow;
+    height: 300px;
+    width: 400px;
+}
+.child{
+    background-color: brown;
+    height: 100px;
+    width: 380px;
+    margin: 0px 9px;
+}
+input{
+    height: 34px;
+    width: 160px;
+    margin: 6px 6px;
+}
